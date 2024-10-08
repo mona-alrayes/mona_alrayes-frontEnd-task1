@@ -1,0 +1,16 @@
+body{
+    margin:50px 50px;
+}
+span {
+    font-weight: bolder;
+}
+
+.Social {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.interest {
+    list-style-type: none;
+    padding-left: 0px;
+}
